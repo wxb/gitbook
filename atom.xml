@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[WoGeeker]]></title>
   <subtitle><![CDATA[个人工作站]]></subtitle>
-  <link href="/Blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   <link href="http://wogeeker.com/"/>
   <updated>2015-12-08T14:09:53.000Z</updated>
   <id>http://wogeeker.com/</id>
